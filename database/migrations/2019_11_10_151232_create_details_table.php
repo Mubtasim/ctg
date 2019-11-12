@@ -16,8 +16,13 @@ class CreateDetailsTable extends Migration
         Schema::create('details', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->unsignedBigInteger('category_id');
+            $table->unsignedBigInteger('location_id');
             $table->foreign('category_id')->references('id')->on('categories')->onDelete('cascade');
+            $table->foreign('location_id')->references('id')->on('locations')->onDelete('cascade');
             $table->string('name')->unique();
+            $table->string('slug')->unique();
+            $table->text('description');
+            $table->string('image')->nullable();
             $table->timestamps();
         });
     }

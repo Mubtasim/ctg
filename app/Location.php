@@ -4,15 +4,15 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Category extends Model
+class Location extends Model
 {
 
     protected $fillable = [
-        'category_name'
+        'location_name'
     ];
 
     public function details()
     {
-        return $this->hasMany('Detail', 'category_id');
+        return $this->hasMany('Detail', 'location_id');
     }
 }

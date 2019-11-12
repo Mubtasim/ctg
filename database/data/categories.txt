@@ -1,0 +1,5 @@
+hospital
+market
+college
+school
+university

@@ -6,7 +6,7 @@
       <a href="{{ route('home') }}" class="btn btn-lg btn-primary btn-block mt-1">Home</a>
       <div class="row mt-2">
             @foreach ($categories as $category)
-            <div class="col-sm-4">
+            <div class="col-md-2 col-sm-4">
                   <a href="{{ route('details',['name'=>$category_name,'details'=>$category->name]) }}">
                         <div class="card mb-4 shadow-sm bg-info text-white">
                               <img src="http://images.pexels.com/photos/236380/pexels-photo-236380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
