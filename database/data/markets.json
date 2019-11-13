@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Ameen Center",
+        "location": "LalkhanBazar",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "Sanmar Ocean City",
+        "location": "GEC",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "Chittagong Shopping Complex",
+        "location": "2NoGate",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "1 to 99",
+        "location": "2NoGate",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "Mimi Super Market",
+        "location": "ProbortokMor",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "Complete Kitchen",
+        "location": "CDAAve",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "Afmi Plaza",
+        "location": "BayazidBostami",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "Apollo Shopping Centre",
+        "location": "KazirDewri",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "VIP TOWER",
+        "location": "KazirDewri",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "Central Plaza",
+        "location": "GEC",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "Astorion Chittagong",
+        "location": "CDAAve",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "Almas Shopping Center",
+        "location": "KazirDewri",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "Yunusco City Centre",
+        "location": "CDAAve",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "Finlay Square",
+        "location": "CDAAve",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "Tamakumondoli Lane",
+        "location": "NewMarket",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "Eyahiya Tower",
+        "location": "CDAAve",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "Chowdhury Tiles",
+        "location": "Chittagong",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "Sana Shopping Mall",
+        "location": "Chittagong",
+        "description": "Shopping Mall"
+    },
+    {
+        "name": "Municipal Shopping Complex",
+        "location": "Chittagong",
+        "description": "Shopping Mall"
+    }
+]
