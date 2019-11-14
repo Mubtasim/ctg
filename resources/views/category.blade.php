@@ -2,7 +2,7 @@
 
 @section('content')
 
-<div class="container-fluid text-center">
+<div class="container text-center">
       <a href="{{ route('home') }}" class="btn btn-lg btn-primary btn-block mt-1">Home</a>
       <div class="row mt-2">
             @foreach ($categories as $category)

@@ -42,6 +42,7 @@
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
     </form>
+    <a href="{{ route('home') }}" class="btn btn-success mt-2">Home</a>
 </div>
 
 @endsection
